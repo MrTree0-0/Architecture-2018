@@ -1,5 +1,5 @@
 # 一个跑到300MHz的CPU 
-RISC-V CPU
+Architecture-2018
 
 金乐盛
 
