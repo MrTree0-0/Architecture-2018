@@ -1,5 +1,4 @@
-# 一个跑到300MHz的CPU 
-Architecture-2018
+# Architecture-2018
 
 金乐盛
 
