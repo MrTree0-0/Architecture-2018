@@ -5,7 +5,7 @@
 此次体系结构大作业要求实现一个基于RISC-V指令集的CPU。
 
 ## 报告
-* My [**Project Report**](doc/RISC-Vreport)
+* My [**Project Report**](doc/RISC-Vreport.pdf)
 
 ## 难点
 1. CPU与Memory的带宽为8位，所以对32位数据的操作需要花起码4个周期
